@@ -4,10 +4,10 @@
 baseurl:
 url: https://m3-soft.github.io
 date_format: "ordinal"
-title: Mily
+title: Klaŭd
 subtitle: "这是一个Amazing的网站"
-description: "Mily的个人网站"
-keywords: Amazing,Mily
+description: "CLoud的个人网站"
+keywords: Amazing,Cloud,klaŭd
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
