@@ -1,4 +1,4 @@
-# ---------------- #
+﻿# ---------------- #
 #   Main Configs   #
 # ---------------- #
 baseurl:
@@ -20,7 +20,7 @@ organization:
 organization_url: 
 github_username: momoNorthy
 location: Quzhou,China
-email: momonorthy2008@ooutlook.com
+email: momonorthy2008@outlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -66,7 +66,7 @@ paginate: 10
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: /:year/:month/:day/:title/
+permalink: :categories:title
 gems:
     - jekyll-github-metadata
     - rouge
