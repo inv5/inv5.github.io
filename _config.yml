@@ -2,12 +2,12 @@
 #   Main Configs   #
 # ---------------- #
 baseurl:
-url: https://mazhuang.org
+url: https://m3-soft.github.io
 date_format: "ordinal"
-title: 码志
-subtitle: "打码改变人生"
-description: "马壮的个人博客"
-keywords: 码志, Zhuang Ma, mzlogin, mazhuang
+title: Mily
+subtitle: "这是一个Amazing的网站"
+description: "Mily的个人网站"
+keywords: Amazing,Mily
 timezone: Asia/Shanghai
 encoding: "utf-8"
 side_bar_repo_limit: 5
@@ -15,12 +15,12 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Zhuang Ma
+author: Mily
 organization: 
 organization_url: 
-github_username: mzlogin
-location: Wuhan, China
-email: chumpma@gmail.com
+github_username: momoNorthy
+location: Quzhou,China
+email: momonorthy2008@ooutlook.com
 
 # ---------------- #
 #    Navigation    #
@@ -102,10 +102,10 @@ gitment:
         client_secret: b087e48ab9a6c5ecf2ef2524f04845dd1f762345
 # https://github.com/gitalk/gitalk#install
 gitalk:
-    owner: mzlogin
-    repo: blog-comments
-    clientID: d2e1cbbd298958076462
-    clientSecret: b42a4178e5fd4a7cf63189ef4b1453b05c375709
+    owner: 
+    repo: 
+    clientID: 
+    clientSecret: \
 # 在使用其它评论组件时可点击显示 Disqus
 lazy_load_disqus : false
 
