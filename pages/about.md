@@ -1,8 +1,8 @@
 ---
 layout: page
 title: About
-description: 打码改变世界
-keywords: Zhuang Ma, 马壮
+description: 你好
+keywords: 
 comments: true
 menu: 关于
 permalink: /about/
@@ -16,10 +16,10 @@ permalink: /about/
 
 ## 联系
 
-{% for website in site.data.social %}
-* {{ website.sitename }}：[@{{ website.name }}]({{ website.url }})
-{% endfor %}
-
+号码：18157073593
+邮箱：
+> [邮箱1](mailto:northy360@126.com)
+  [邮箱2](mailto:momonorthy2008@outlook.com)
 ## Skill Keywords
 
 {% for category in site.data.skills %}
