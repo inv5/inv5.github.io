@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C++模板体验
+title: C++ | C++模板体验
 categories: C++
 description: 一起来学泛型编程！
 keywords: C++,template
