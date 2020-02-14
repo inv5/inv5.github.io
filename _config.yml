@@ -66,7 +66,7 @@ paginate: 10
 lsi: false
 quiet: false
 excerpt_separator: "\n\n"
-permalink: :categories:title
+permalink: :title
 gems:
     - jekyll-github-metadata
     - rouge
