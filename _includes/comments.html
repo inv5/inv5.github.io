@@ -8,9 +8,9 @@ var gitalk = new Gitalk({
   clientID: '00b7747c068305acf6f8',
   clientSecret: 'b087e48ab9a6c5ecf2ef2524f04845dd1f762345',
   repo: 'comments',
-  owner: 'inv5',
+  owner: 'm3-soft',
   admin: ['momoNorthy'],
-  id: location.pathname,      // 请确保你的 location 连接小于 50 个字符，否则，插件会生成失败
+  id: md5(location.pathname),      // 请确保你的 location 连接小于 50 个字符，否则，插件会生成失败
   distractionFreeMode: false  // 专注模式
 })
 gitalk.render('gitalk-container')
