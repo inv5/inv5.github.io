@@ -4,7 +4,7 @@
 baseurl:
 url: https://m3-soft.github.io
 date_format: "ordinal"
-title: Klaŭd
+title: Cloud
 subtitle: "这是一个Amazing的网站"
 description: "CLoud的个人网站"
 keywords: Amazing,Cloud,klaŭd
@@ -15,7 +15,7 @@ side_bar_repo_limit: 5
 # ---------------- #
 #      Author      #
 # ---------------- #
-author: Mily
+author: Cloud
 organization: 
 organization_url: 
 github_username: momoNorthy
@@ -27,7 +27,7 @@ email: momonorthy2008@outlook.com
 # ---------------- #
 navs:
   -
-    href: /
+    href: https://iamcloud.cr.cx
     label: 首页
 
   -
@@ -49,6 +49,7 @@ navs:
   -
     href: /about/
     label: 关于
+  
 
 # ---------------- #
 #       RSS        #
