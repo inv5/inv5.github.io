@@ -1,13 +1,13 @@
-# 码志
+# 独玖-的博客
 
-我的个人博客：<https://mazhuang.org>，欢迎 Star 和 Fork。
+我的个人博客：<https://iamcloud.gitee.io>，欢迎 Star 和 Fork。
 
 ## 概览
 
 <!-- vim-markdown-toc GFM -->
 
 * [效果预览](#效果预览)
-* [Fork 指南](#fork-指南)
+* [配置说明](#配置说明)
 * [贴心提示](#贴心提示)
 * [经验与思考](#经验与思考)
 * [致谢](#致谢)
@@ -16,11 +16,11 @@
 
 ## 效果预览
 
-**[在线预览 &rarr;](https://mazhuang.org)**
+**[在线预览 &rarr;](https://iamcloud.gitee.io)**
 
-![screenshot home](https://mazhuang.org/assets/images/screenshots/home.png)
-
-## Fork 指南
+![不能显示？试着访问下面](https://s2.ax1x.com/2020/02/17/3C3Ane.jpg)
+<https://s2.ax1x.com/2020/02/17/3C3Ane.jpg>
+## 配置说明
 
 Fork 本项目之后，还需要做一些事情才能让你的页面「正确」跑起来。
 
@@ -34,20 +34,18 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 3. 修改配置。
 
-   网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 url、title、subtitle 和第三方评论模块的配置等。
+   网站的配置基本都集中在 \_config.yml 文件中，将其中与个人信息相关的部分替换成你自己的，比如网站的 url、title、subtitle。
 
-   **评论模块：** 目前支持 disqus、gitment 和 gitalk，选用其中一种就可以了，推荐使用 gitalk。它们各自的配置指南链接在 \_config.yml 文件的 Comments 一节里都贴出来了。
-
-   **注意：** 如果使用 disqus，因为 disqus 处理用户名与域名白名单的策略存在缺陷，请一定将 disqus.username 修改成你自己的，否则请将该字段留空。我对该缺陷的记录见 [Issues#2][3]。
-
+   **评论模块：** 在_config.yml理的内容还是不要修改了，直接到_includes/comments.html里修改。可以看看我的说明：<https://m3-soft.github.io/%E5%89%8D%E7%AB%AF/2020/02/15/gitalk-setup>
+   
 4. 删除我的文章与图片。
-
+   
    如下文件夹中除了 template.md 文件外，都可以全部删除，然后添加你自己的内容。
 
    * \_posts 文件夹中是我已发布的博客文章。
    * \_drafts 文件夹中是我尚未发布的博客文章。
    * \_wiki 文件夹中是我已发布的 wiki 页面。
-   * images 文件夹中是我的文章和页面里使用的图片。
+   * images 文件夹中是@mzlogin使用的image。
 
 5. 修改「关于」页面。
 
@@ -55,9 +53,6 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 贴心提示
 
-1. 排版建议遵照一定的规范，推荐 [中文文案排版指北（简体中文版）][1]。
-
-2. 在本地预览博客效果可以参考 [Setting up your Pages site locally with Jekyll][2]。
 
 ## 经验与思考
 
@@ -75,8 +70,5 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 ## 致谢
 
-本博客外观基于 [DONGChuan](https://dongchuan.github.io) 修改，感谢！
-
-[1]: https://github.com/mzlogin/chinese-copywriting-guidelines
-[2]: https://help.github.com/articles/setting-up-your-pages-site-locally-with-jekyll/
-[3]: https://github.com/mzlogin/mzlogin.github.io/issues/2
+本博客fork自[@mzlogin][1],致谢！！！
+[1]: https://github.com/mzlogin/mzlogin.github.io/
