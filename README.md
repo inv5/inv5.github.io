@@ -4,7 +4,7 @@
 
 # language
 
-[中文（简体)](/)
+[中文（简体)](/README.md)
 
 [English][2]
 
