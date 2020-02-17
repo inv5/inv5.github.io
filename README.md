@@ -80,3 +80,5 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 本博客fork自[@mzlogin][1],致谢！！！
 
 [1]: https://github.com/mzlogin/mzlogin.github.io/
+[2]: https://github.com/m3-soft/m3-soft.github.io/blob/master/readme-lang/readme-en.md
+[3]: https://github.com/m3-soft/m3-soft.github.io/blob/master/readme-lang/readme-esp.md
