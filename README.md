@@ -79,6 +79,13 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 本博客fork自[@mzlogin][1],致谢！！！
 
+## Logo（中文版特有）
+![](https://s2.ax1x.com/2020/02/17/3CMkIx.jpg)
+
+老规矩，不能访问就点链接！！
+
+<https://s2.ax1x.com/2020/02/17/3CMkIx.jpg>
+
 [1]: https://github.com/mzlogin/mzlogin.github.io/
 [2]: https://github.com/m3-soft/m3-soft.github.io/blob/master/readme-lang/readme-en.md
 [3]: https://github.com/m3-soft/m3-soft.github.io/blob/master/readme-lang/readme-esp.md
