@@ -7,7 +7,7 @@ categories: 前端
 先打开<https://github.com/settings/applications/new>,按照下图进行创建。<br>
 ![Error When Load Photo.](https://raw.githubusercontent.com/m3-soft/m3-soft.github.io/master/images/blog/2020-02-15.png)<br>
 然后点确定，获得1*ID和1*Secret。打开博客的_includes/comments.html，加入以下代码::<br>
-```html
+```
 {% if page.comments != false %}
 
 
