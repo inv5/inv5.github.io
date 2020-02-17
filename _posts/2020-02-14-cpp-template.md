@@ -35,4 +35,4 @@ tp max(tp const &a,tp const &b)
 }
 ```
 beautiful!这样就可以比较任意可以用>号比较的类型！如果你把一个struct/class重载了>运算符，也是可以的！这个就当做作业吧！你可以把你定义的struct/class发到我邮箱<mailto:northy360@126.com>我们一同进步！<br>
-![Load Photo Error](https://gitee.com/momonorthy/github-blog-images-2/raw/master/img/duj.jpg)
+![Load Photo Error](https://s2.ax1x.com/2020/02/17/3CMkIx.jpg)
