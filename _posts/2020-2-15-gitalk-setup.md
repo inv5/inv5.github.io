@@ -50,4 +50,4 @@ gitalk.render('gitalk-container')
 ```
 (把原有内容删的干干净净以后)<br>
 然后去创建一个叫cmet的repo,就可有评论了！！！
-<br>![Load Photo Error](https://gitee.com/momonorthy/github-blog-images-2/raw/master/img/duj.jp
+<br>![Load Photo Error](https://gitee.com/momonorthy/github-blog-images-2/raw/master/img/duj.jpg)
