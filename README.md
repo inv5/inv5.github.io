@@ -18,6 +18,7 @@
 * [贴心提示](#贴心提示)
 * [经验与思考](#经验与思考)
 * [致谢](#致谢)
+* [Logo](#Logo)
 
 <!-- vim-markdown-toc -->
 
@@ -26,6 +27,7 @@
 **[在线预览 &rarr;](https://iamcloud.gitee.io)**
 
 ![不能显示？试着访问下面](https://s2.ax1x.com/2020/02/17/3C3Ane.jpg)
+
 <https://s2.ax1x.com/2020/02/17/3C3Ane.jpg>
 ## 配置说明
 
@@ -79,7 +81,8 @@ Fork 本项目之后，还需要做一些事情才能让你的页面「正确」
 
 本博客fork自[@mzlogin][1],致谢！！！
 
-## Logo（中文版特有）
+## Logo
+（中文版特有）
 ![](https://s2.ax1x.com/2020/02/17/3CMkIx.jpg)
 
 老规矩，不能访问就点链接！！
