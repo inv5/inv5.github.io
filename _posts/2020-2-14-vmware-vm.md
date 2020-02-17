@@ -15,5 +15,5 @@ keywords: 虚拟机,win10,iso
 在user agent里改上一笔：取消select automaticly，选择safari-mac或chrome-mac
 ![对不起，图片走丢了](https://gitee.com/Lblog/my-blog/raw/master/img/%E6%96%B0%E5%BB%BA%E4%BD%8D%E5%9B%BE%E5%9B%BE%E5%83%8F%20(3).bmp)<br>
 按<kbd>F5</kbd>,刷新！！！就可以到下载win10iso的界面了！
-<br>![Load Photo Error](https://gitee.com/momonorthy/github-blog-images-2/raw/master/img/duj.jpg)
+<br>![Load Photo Error](https://s2.ax1x.com/2020/02/17/3CMkIx.jpg)
 
