@@ -6,7 +6,7 @@ My personal blog are publish at：<https://iamcloud.gitee.io>，Star & Fork are 
 
 [中文（简体)](https://github.com/m3-soft/m3-soft.github.io/blob/master/README.md)
 
-[English](/readme.en.md)
+[English](https://github.com/m3-soft/m3-soft.github.io/blob/master/readme-lang/readme-en.md)
 
 [Esperanto][3]
 ## 概览
