@@ -4,21 +4,20 @@
 baseurl:
 url: https://m3-soft.github.io
 date_format: "ordinal"
-title: 独玖-
+title: Sienna
 subtitle: "不哭不闹，独自走过属于我的玖月"
 description: "独玖-的个人网站"
 keywords: 独玖-
 timezone: Asia/Shanghai
 encoding: "utf-8"
-side_bar_repo_limit: 5
-
+side_bar_repo_limit: 04
 # ---------------- #
 #      Author      #
 # ---------------- #
 author: 独玖-
 organization: 
 organization_url: 
-github_username: m3-soft
+github_username: mineopensource-soft
 location: Quzhou,China
 email: momonorthy2008@outlook.com
 
@@ -27,7 +26,7 @@ email: momonorthy2008@outlook.com
 # ---------------- #
 navs:
   -
-    href: https://iamcloud.cr.cx
+    href: https://iamcloud.gitee.io
     label: 首页
 
   -
